@@ -202,11 +202,6 @@ After building:
    - macOS: Create DMG file
    - Linux: Create .deb or .rpm package
 
-3. Consider these distribution methods:
-   - Direct download from website/GitHub releases
-   - App stores (Microsoft Store, Mac App Store)
-   - Package managers (Homebrew, Chocolatey)
-
 ## Clean Up
 
 To remove build files:

@@ -55,7 +55,7 @@ We welcome pull requests for:
    ```
 3. **Create a branch** for your changes:
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feat/your-feature-name
    ```
    or
    ```bash
