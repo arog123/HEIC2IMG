@@ -5,6 +5,8 @@ A little python program to convert .heic files to jpeg or png
 
 A simple Python desktop application with a graphical user interface for converting HEIC (High Efficiency Image Container) files to JPG or PNG format.
 
+<img width="497" height="426" alt="Screenshot 2025-11-11 at 22 07 32" src="https://github.com/user-attachments/assets/f5745593-7065-43ff-86ad-0734ee0f3973" />
+
 ## Features
 
 - **Drag & Drop Support** - Simply drag HEIC files onto the application window
